@@ -7,11 +7,11 @@ Lo que más me gusta de este mundo es que hay mucho por aprender, y eso es un gr
 
 
 ### ⏪ ¿De dónde vengo? 
-Me gradué en el año 2014 en <bIngeniería Industrial</b>, y me desempeñé durante cinco años en distintas industrias y roles. Luego incursioné en la docencia por alrededor de dos años, dictando materias afines a la Ciencia y la Ingeniería. 
+Me gradué en el año 2014 en <b>Ingeniería Industrial</b>, y me desempeñé durante cinco años en distintas industrias y roles. Luego incursioné en la docencia por alrededor de dos años, dictando materias afines a la Ciencia y la Ingeniería. 
 
 
 ### 🔭 ¿Hacia dónde voy? 
-A donde sea que pueda aportar soluciones a través del código. Creo que el destino no es un lugar al cuál llegar, sino un manera de transitar. Elijo aquellos procesos donde me sienta seguro pero desafiado, exigido pero también cuidado y premiado. 
+A donde sea que pueda aportar soluciones a través del código. Creo que el destino no es un lugar al cuál llegar, sino una manera de transitar. Elijo aquellos procesos donde me sienta seguro pero desafiado, exigido pero también cuidado y premiado. 
 
 
 ### 🧰 ¿Qué tecnologías y lenguajes uso? 
