@@ -1,7 +1,7 @@
 ## ▶️ Hola! Soy Tomás Daverio 🙂
 
 ### 👋 ¿Quién soy? 
-Recientemente graduado en <b>desarrollo web full stack</b> en soyHenry (PERN stack). Disfruto del uso de la tecnología como herramienta creadora, y solucionadora de problemas.
+Graduado en <b>desarrollo web full stack</b> en soyHenry (PERN stack). Disfruto del uso de la tecnología como herramienta creadora, y solucionadora de problemas.
 Descubrí el mundo de la programación a través de Python, SQL y MatLab, y decidí anotarme al bootcamp de Henry, en el cuál pude aprender y profundizar mucho sobre código, tecnologías, y también la importancia del trabajo en equipo. 
 Lo que más me gusta de este mundo es que hay mucho por aprender, y eso es un gran disparador de motivación para mi curiosidad. 🤓🧠🚀
 
