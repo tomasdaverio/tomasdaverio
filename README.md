@@ -33,6 +33,8 @@ A donde sea que pueda aportar soluciones a través del código. Creo que el dest
 + Sequelize
 + PostgreSQL
 + Next.js
++ Tailwind
++ Gorm
 + Zustand</b>
 
 ### 📂 ¿Qué proyectos realicé? 
