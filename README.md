@@ -45,7 +45,7 @@ Disponible para vista en PC y mobile (responsive design).
 Los ordenamientos se mantienen incluso al aplicar y remover filtros. Además, los resultados de búsqueda se encuentran páginados con botones. 
 Por otro lado, existe un formulario de creación de receta por parte del usuario con campos validados en su totalidad con JavaScript. Además, dichas validaciones también existen en el Back-End, y base de datos. 
 Por último, en cuanto a manejo de errores, los mismos son manejados integramente tanto en el back como en el front, proporcionando feedback preciso tanto para el usuario como para el desarrollador que administre el proyecto.  
-Link: https://foodfront.vercel.app/  
+Link: https://food-tomasdaverio.vercel.app/
 Repo: https://github.com/tomasdaverio/PI---Food
 #### 2. <b>Proyecto Final</b> (soyHenry BootCamp)
 Desarrollé mi proyecto final de la carrera de Web Full Stack Developer de Henry en la compañía We Book You de México, aportando con mis conocimientos y habilidades en JavaScript, NodeJS, React, Redux, HTML y CSS, en proyectos de trackeo y métricas de eventos de usuarios (utilizando Segment Analytics y MixPanel), y traducción de la página (utilizando i18next)
